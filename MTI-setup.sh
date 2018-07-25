@@ -295,7 +295,7 @@ or just type 'node' and hit <TAB> to autocomplete script name.
 ========================================================================
 Enjoy your MTI Masternode and thanks for using this setup script!
 If you found it helpful, please donate MTI to:
-ofQzJU37B2a7G2EZ52qyhKjV6pAqJ3KYpp
+MA2oAyep3iew6Ea2HMdwnk7MYLT5dq8Ap1
 ...and make sure to check back for updates!
 "
 # Run MTImon.sh
